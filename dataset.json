@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Statewide restaurant dataset covering all active listings across Utah. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Utah, US",
+  "export_job_id": "752a9c8d-cc7b-4d38-92a9-74ffe0a3b849",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 919953,
+  "location_name": "Utah",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-utah-us-sample-919953",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/919953/beamstation_919953_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 646,
+  "sample_sha256": "44b6b9ec45f37a3d0114a901a716b2ad8491012243885a58328c1554d7fac55e",
+  "sample_size_bytes": 1982467,
+  "total_records": 6462,
+  "updated_at": "2026-04-14T20:15:17.459264+00:00"
+}
