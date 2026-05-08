@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a14ba279-f30a-479d-827e-d3b3749ba806",
+  "export_job_id": "328cfda4-1de8-451e-b252-50956b9996de",
   "id_short": 919953,
-  "published_at": "2026-04-29T07:14:55Z",
+  "published_at": "2026-05-08T19:10:07Z",
   "repo_name": "all-restaurants-in-utah-us-sample-919953",
   "sample_asset_name": "beamstation_919953_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/919953/beamstation_919953_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 670,
-  "sample_sha256": "131771e0e3c587ffc63d7cce1045509508a2598c0b851e7298930524c9656822",
-  "sample_size_bytes": 2124127,
-  "total_records": 6707
+  "sample_records": 731,
+  "sample_sha256": "ce671fd587cd4079ab6e8a98640a4334488c75ae4e2eddfab2f81ef8ddcd8a2f",
+  "sample_size_bytes": 2363236,
+  "total_records": 7312
 }
