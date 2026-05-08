@@ -1,6 +1,6 @@
 # All Restaurants in Utah, US
 
-> Free BeamStation sample export with 670 rows and masked direct-contact fields.
+> Free BeamStation sample export with 731 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `919953` |
 | Location | Utah |
 | Category | Restaurants |
-| Full dataset size | 6,707 records |
-| Free sample size | 670 records (9.99%) |
-| Last export | 2026-04-29T01:25:32.615223+00:00 |
+| Full dataset size | 7,312 records |
+| Free sample size | 731 records (10.0%) |
+| Last export | 2026-05-08T09:25:46.150826+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-utah-us-sample-919953/releases/download/sample-latest/beamstation_919953_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
